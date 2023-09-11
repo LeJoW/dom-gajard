@@ -1,7 +1,7 @@
 const bdd = require("./table.json");
 
-export function getTableHeader() {
-    return Object.keys(bdd[0]);
+export function getCount() {
+    return bdd.length;
 }
 
 export function getStdContent() {

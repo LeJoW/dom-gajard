@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { getNotStdContent, getStdContent, getStdContentBy } from "./lib/bdd";
+import { getNotStdContent, getStdContentBy } from "./lib/bdd";
 
 export default function Table() {
     const kyriale = getNotStdContent();
@@ -13,7 +13,7 @@ export default function Table() {
 
     return (
         <>
-            <table className="w-full my-20 border-collapse">
+            <table className="my-20 border-collapse">
                 <thead>
                     <tr>
                         {["Incipit", "Type", "Album"].map(function (title, id) {
@@ -21,6 +21,7 @@ export default function Table() {
                                 <th key={`head-${id}`} className="p-4">
                                     {title}{" "}
                                     <button
+                                        className="text-orange-400"
                                         onClick={function () {
                                             setSorting({
                                                 key: title,
@@ -65,7 +66,7 @@ export default function Table() {
                 </tbody>
             </table>
 
-            <table className="w-full my-20 border-collapse">
+            <table className="my-20 border-collapse">
                 <h2 className="text-3xl p-10">Kyriale</h2>
                 <tbody>
                     {kyriale.map(function ({ Incipit }, id) {

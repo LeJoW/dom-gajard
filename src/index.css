@@ -4,20 +4,20 @@
 
 @layer base {
     body {
-        @apply bg-stone-300;
+        @apply bg-gradient-to-br from-stone-500/[0.09] to-orange-400/50;
     }
 }
 
 @layer components {
     table {
-        @apply bg-stone-200 shadow-lg rounded-lg;
+        @apply bg-stone-200 rounded-lg;
     }
 
     table tbody tr:nth-child(odd) {
         @apply bg-stone-300;
     }
 
-   /*  tr td:first-child,
+    /*  tr td:first-child,
     tr td:last-child {
         border: none;
     } */
