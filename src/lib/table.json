@@ -464,7 +464,7 @@
     {
         "Album": "Vêpres et Complies",
         "Type": "Varia",
-        "Incipit": "Converte Deus in adiutorium",
+        "Incipit": "Converte nos — Deus in adiutorium",
         "Categorie": "Groupe 2"
     },
     {
@@ -510,7 +510,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Noël 1\nollemnia 1952 - 1953",
+        "Album": "Noël 1 — Sollemnia 1952 - 1953",
         "Type": "Antiphona",
         "Incipit": "Cum ortus",
         "Categorie": "Groupe 2"
@@ -614,17 +614,17 @@
     {
         "Album": "Christ-Roi 1",
         "Type": "Introitus",
-        "Incipit": "Deus Introitus adiutorium",
+        "Incipit": "Deus in adiutorium",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Vêpres et Complies",
         "Type": "Versiculum",
-        "Incipit": "Deus Introitus adiutorium",
+        "Incipit": "Deus in adiutorium",
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Christ-Roi 1\nollemnia 1952 - 1953",
+        "Album": "Christ-Roi 1 — Sollemnia 1952 - 1953",
         "Type": "Alleluia",
         "Incipit": "Deus iudex",
         "Categorie": "Groupe 2"
@@ -672,7 +672,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Noël 1\nollemnia 1952 - 1953",
+        "Album": "Noël 1 — Sollemnia 1952 - 1953",
         "Type": "Antiphona",
         "Incipit": "Diffusa est",
         "Categorie": "Groupe 2"
@@ -1026,7 +1026,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Carême. Rameaux 1\nhrist-Roi 1",
+        "Album": "Carême. Rameaux 1 — Christ-Roi 1",
         "Type": "Antiphona",
         "Incipit": "Habet in vestimento",
         "Categorie": "Groupe 2"
@@ -1098,7 +1098,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Carême. Rameaux 1\nollemnia 1952 - 1953",
+        "Album": "Carême. Rameaux 1 — Sollemnia 1952 - 1953",
         "Type": "Communio",
         "Incipit": "Ierusalem",
         "Categorie": "Groupe 2"
@@ -1278,7 +1278,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Sanctoral 2\nollemnia 1952 - 1953",
+        "Album": "Sanctoral 2 — Sollemnia 1952 - 1953",
         "Type": "Offertorium",
         "Incipit": "Iustorum animae",
         "Categorie": "Groupe 2"
@@ -1320,7 +1320,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Carême. Rameaux 1\nhrist-Roi 1",
+        "Album": "Carême. Rameaux 1 — Christ-Roi 1",
         "Type": "Graduale",
         "Incipit": "Laetatus sum",
         "Categorie": "Groupe 2"
@@ -1374,7 +1374,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Sollemnia 1952 - 1953\nollemnia 1952 - 1953",
+        "Album": "Sollemnia 1952 - 1953 — Sollemnia 1952 - 1953",
         "Type": "Psalmus",
         "Incipit": "Laudate Dñum omnes gentes (Ps 116)",
         "Categorie": "Groupe 2"
@@ -1392,7 +1392,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Vêpres et Complies\nollemnia 1952 - 1953",
+        "Album": "Vêpres et Complies — Sollemnia 1952 - 1953",
         "Type": "Psalmus",
         "Incipit": "Laudate pueri (Ps 112)",
         "Categorie": "Groupe 2"
@@ -1458,7 +1458,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Noël 1\nollemnia 1952 - 1953",
+        "Album": "Noël 1 — Sollemnia 1952 - 1953",
         "Type": "Canticum",
         "Incipit": "Magnificat 8g",
         "Categorie": "Groupe 2"
@@ -1952,7 +1952,7 @@
     {
         "Album": "Christ-Roi 1",
         "Type": "Introitus",
-        "Incipit": "Respice Introitus me",
+        "Incipit": "Respice in me",
         "Categorie": "Groupe 2"
     },
     {
@@ -2148,7 +2148,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Christ-Roi 2\nollemnia 1952 - 1953",
+        "Album": "Christ-Roi 2 — Sollemnia 1952 - 1953",
         "Type": "Offertorium",
         "Incipit": "Super flumina",
         "Categorie": "Groupe 2"
@@ -2160,7 +2160,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Pâques\nâques mono",
+        "Album": "Pâques — Pâques mono",
         "Type": "Invitatorium",
         "Incipit": "Surrexit Dominus",
         "Categorie": "Groupe 2"
@@ -2412,7 +2412,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Noël 1\nollemnia 1952 - 1953",
+        "Album": "Noël 1 — Sollemnia 1952 - 1953",
         "Type": "Responsorium",
         "Incipit": "Verbum caro",
         "Categorie": "Groupe 2"
