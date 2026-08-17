@@ -12,15 +12,22 @@ export function getStdContent() {
 
 export function getStdContentBy(key, direction) {
     const sorted = getStdContent().sort(function (a, b) {
-        if (a[key] > b[key]) {
+        const entryA = prepareStr(a[key]);
+        const entryB = prepareStr(b[key]);
+        console.log(entryA);
+        if (entryA > entryB) {
             return 1;
         }
-        if (a[key] < b[key]) {
+        if (entryA < entryB) {
             return -1;
         }
         return 0;
     });
     return direction === 1 ? sorted : sorted.reverse();
+}
+
+function prepareStr(value) {
+    return value.replace(/æ/gi, "ae").toLowerCase();
 }
 
 export function getNotStdContent() {
