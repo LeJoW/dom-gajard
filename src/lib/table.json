@@ -32,7 +32,7 @@
     {
         "Album": "Sollemnia 1955 - 1978",
         "Type": "Varia",
-        "Incipit": "Ad sextam Mariae in Sab.",
+        "Incipit": "Ad sextam Mariæ in Sab.",
         "Categorie": "Groupe 2"
     },
     {
@@ -62,13 +62,13 @@
     {
         "Album": "Jours Saints 3",
         "Type": "Responsorium",
-        "Incipit": "AEstimatus sum",
+        "Incipit": "Æstimatus sum",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Christ-Roi 1",
         "Type": "Hymnus",
-        "Incipit": "AEterne rerum conditor",
+        "Incipit": "Æterne rerum conditor",
         "Categorie": "Groupe 2"
     },
     {
@@ -206,13 +206,13 @@
     {
         "Album": "Les quatre antiennes à la Sainte Vierge",
         "Type": "Antiphona",
-        "Incipit": "Ave Regina caelorum",
+        "Incipit": "Ave Regina cælorum",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Les quatre antiennes à la Sainte Vierge",
         "Type": "Antiphona",
-        "Incipit": "Ave Regina caelorum simpl.",
+        "Incipit": "Ave Regina cælorum simpl.",
         "Categorie": "Groupe 2"
     },
     {
@@ -294,7 +294,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Gaudete & Laetare",
+        "Album": "Gaudete & Lætare",
         "Type": "Offertorium",
         "Incipit": "Benedixisti Domine",
         "Categorie": "Groupe 2"
@@ -590,7 +590,7 @@
     {
         "Album": "Noël 1",
         "Type": "Responsorium",
-        "Incipit": "Descendit de caelis",
+        "Incipit": "Descendit de cælis",
         "Categorie": "Groupe 2"
     },
     {
@@ -648,7 +648,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Gaudete & Laetare",
+        "Album": "Gaudete & Lætare",
         "Type": "Communio",
         "Incipit": "Dicite : Pusillanimes",
         "Categorie": "Groupe 2"
@@ -662,7 +662,7 @@
     {
         "Album": "Défunts. Dédicace",
         "Type": "Sequentia",
-        "Incipit": "Dies irae",
+        "Incipit": "Dies iræ",
         "Categorie": "Groupe 2"
     },
     {
@@ -698,7 +698,7 @@
     {
         "Album": "Christ-Roi 2",
         "Type": "Varia",
-        "Incipit": "Divinae pacis",
+        "Incipit": "Divinæ pacis",
         "Categorie": "Groupe 2"
     },
     {
@@ -758,7 +758,7 @@
     {
         "Album": "Sanctoral 1",
         "Type": "Graduale",
-        "Incipit": "Domine praevenisti",
+        "Incipit": "Domine prævenisti",
         "Categorie": "Groupe 2"
     },
     {
@@ -978,7 +978,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Gaudete & Laetare",
+        "Album": "Gaudete & Lætare",
         "Type": "Varia",
         "Incipit": "Gaude Dei Genetrix",
         "Categorie": "Groupe 2"
@@ -996,7 +996,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Gaudete & Laetare",
+        "Album": "Gaudete & Lætare",
         "Type": "Introitus",
         "Incipit": "Gaudete in Domino",
         "Categorie": "Groupe 2"
@@ -1034,7 +1034,7 @@
     {
         "Album": "Pâques",
         "Type": "Graduale",
-        "Incipit": "Haec dies. Confitemini",
+        "Incipit": "Hæc dies. Confitemini",
         "Categorie": "Groupe 2"
     },
     {
@@ -1046,13 +1046,13 @@
     {
         "Album": "Noël 1",
         "Type": "Responsorium",
-        "Incipit": "Hodie nobis caelorum",
+        "Incipit": "Hodie nobis cælorum",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Noël 1",
         "Type": "Responsorium",
-        "Incipit": "Hodie nobis de caelo",
+        "Incipit": "Hodie nobis de cælo",
         "Categorie": "Groupe 2"
     },
     {
@@ -1256,7 +1256,7 @@
     {
         "Album": "Noël 1",
         "Type": "Responsorium",
-        "Incipit": "Iudaea et Ierusalem",
+        "Incipit": "Iudæa et Ierusalem",
         "Categorie": "Groupe 2"
     },
     {
@@ -1280,7 +1280,7 @@
     {
         "Album": "Sanctoral 2 — Sollemnia 1952 - 1953",
         "Type": "Offertorium",
-        "Incipit": "Iustorum animae",
+        "Incipit": "Iustorum animæ",
         "Categorie": "Groupe 2"
     },
     {
@@ -1310,43 +1310,43 @@
     {
         "Album": "Sollemnia 1955 - 1978",
         "Type": "Sequentia",
-        "Incipit": "Laetabundus",
+        "Incipit": "Lætabundus",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Carême. Rameaux 1",
         "Type": "Introitus",
-        "Incipit": "Laetare Ierusalem",
+        "Incipit": "Lætare Ierusalem",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Carême. Rameaux 1 — Christ-Roi 1",
         "Type": "Graduale",
-        "Incipit": "Laetatus sum",
+        "Incipit": "Lætatus sum",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Sollemnia 1952 - 1953",
         "Type": "Psalmus",
-        "Incipit": "Laetatus sum (Ps 121)",
+        "Incipit": "Lætatus sum (Ps 121)",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Noël 1",
         "Type": "Offertorium",
-        "Incipit": "Laetentur caeli",
+        "Incipit": "Lætentur cæli",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Sollemnia 1952 - 1953",
         "Type": "Antiphona",
-        "Incipit": "Laeva eius",
+        "Incipit": "Læva eius",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Jours Saints 2",
         "Type": "Lectio",
-        "Incipit": "Lamentatio Ieremiae",
+        "Incipit": "Lamentatio Ieremiæ",
         "Categorie": "Groupe 2"
     },
     {
@@ -1436,7 +1436,7 @@
     {
         "Album": "Défunts. Dédicace",
         "Type": "Communio",
-        "Incipit": "Lux aeterna",
+        "Incipit": "Lux æterna",
         "Categorie": "Groupe 2"
     },
     {
@@ -1586,7 +1586,7 @@
     {
         "Album": "Carême. Rameaux 1",
         "Type": "Antiphona",
-        "Incipit": "Occurrunt turbae",
+        "Incipit": "Occurrunt turbæ",
         "Categorie": "Groupe 2"
     },
     {
@@ -1628,7 +1628,7 @@
     {
         "Album": "Christ-Roi 2",
         "Type": "Introitus",
-        "Incipit": "Omnia quae fecisti",
+        "Incipit": "Omnia quæ fecisti",
         "Categorie": "Groupe 2"
     },
     {
@@ -1658,7 +1658,7 @@
     {
         "Album": "Jours Saints 3",
         "Type": "Lectio",
-        "Incipit": "Oratio Ieremiae",
+        "Incipit": "Oratio Ieremiæ",
         "Categorie": "Groupe 2"
     },
     {
@@ -1676,13 +1676,13 @@
     {
         "Album": "Jours Saints 2",
         "Type": "Hymnus",
-        "Incipit": "Pange lingua… praelium",
+        "Incipit": "Pange lingua… prælium",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Ascension. Assomption",
         "Type": "Antiphona",
-        "Incipit": "Paradisi portae",
+        "Incipit": "Paradisi portæ",
         "Categorie": "Groupe 2"
     },
     {
@@ -1832,7 +1832,7 @@
     {
         "Album": "Vêpres et Complies",
         "Type": "Antiphona",
-        "Incipit": "Quaerite primum",
+        "Incipit": "Quærite primum",
         "Categorie": "Groupe 2"
     },
     {
@@ -1850,7 +1850,7 @@
     {
         "Album": "Pâques",
         "Type": "Varia",
-        "Incipit": "Quem quaeris",
+        "Incipit": "Quem quæris",
         "Categorie": "Groupe 2"
     },
     {
@@ -1884,7 +1884,7 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Gaudete & Laetare",
+        "Album": "Gaudete & Lætare",
         "Type": "Graduale",
         "Incipit": "Qui sedes Domine",
         "Categorie": "Groupe 2"
@@ -1922,13 +1922,13 @@
     {
         "Album": "Pâques",
         "Type": "Antiphona",
-        "Incipit": "Regina caeli",
+        "Incipit": "Regina cæli",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Pâques",
         "Type": "Antiphona",
-        "Incipit": "Regina caeli simpl.",
+        "Incipit": "Regina cæli simpl.",
         "Categorie": "Groupe 2"
     },
     {
@@ -1974,9 +1974,9 @@
         "Categorie": "Groupe 2"
     },
     {
-        "Album": "Gaudete & Laetare",
+        "Album": "Gaudete & Lætare",
         "Type": "Varia",
-        "Incipit": "Rorate caeli",
+        "Incipit": "Rorate cæli",
         "Categorie": "Groupe 2"
     },
     {
@@ -2096,7 +2096,7 @@
     {
         "Album": "Carême. Rameaux 2",
         "Type": "Evangelium",
-        "Incipit": "Simile est regnum caelorum homini patrifamilias",
+        "Incipit": "Simile est regnum cælorum homini patrifamilias",
         "Categorie": "Groupe 2"
     },
     {
@@ -2120,7 +2120,7 @@
     {
         "Album": "Christ-Roi 1",
         "Type": "Offertorium",
-        "Incipit": "Sperent Introitus te",
+        "Incipit": "Sperent in te",
         "Categorie": "Groupe 2"
     },
     {
@@ -2131,7 +2131,7 @@
     },
     {
         "Album": "Carême. Rameaux 2",
-        "Type": "Praefatio",
+        "Type": "Præfatio",
         "Incipit": "Ssmi Trinitati",
         "Categorie": "Groupe 2"
     },
@@ -2234,7 +2234,7 @@
     {
         "Album": "Jours Saints 2",
         "Type": "Responsorium",
-        "Incipit": "Tenebrae factae sunt",
+        "Incipit": "Tenebræ factæ sunt",
         "Categorie": "Groupe 2"
     },
     {
@@ -2336,7 +2336,7 @@
     {
         "Album": "Noël 2",
         "Type": "Offertorium",
-        "Incipit": "Tui sunt caeli",
+        "Incipit": "Tui sunt cæli",
         "Categorie": "Groupe 2"
     },
     {
@@ -2432,19 +2432,19 @@
     {
         "Album": "Pâques",
         "Type": "Sequentia",
-        "Incipit": "Victimae paschali",
+        "Incipit": "Victimæ paschali",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Sanctoral 2",
         "Type": "Alleluia",
-        "Incipit": "Video caelos",
+        "Incipit": "Video cælos",
         "Categorie": "Groupe 2"
     },
     {
         "Album": "Sanctoral 2",
         "Type": "Communio",
-        "Incipit": "Video caelos",
+        "Incipit": "Video cælos",
         "Categorie": "Groupe 2"
     },
     {
@@ -2504,7 +2504,7 @@
     {
         "Album": "Ascension. Assomption",
         "Type": "Introitus",
-        "Incipit": "Viri Gallilaei",
+        "Incipit": "Viri Gallilæi",
         "Categorie": "Groupe 2"
     },
     {

@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dom-gajard/static/css/main.3fc2655a.css",
-    "main.js": "/dom-gajard/static/js/main.333052d3.js",
+    "main.css": "/dom-gajard/static/css/main.194286fc.css",
+    "main.js": "/dom-gajard/static/js/main.69984616.js",
     "index.html": "/dom-gajard/index.html",
-    "main.3fc2655a.css.map": "/dom-gajard/static/css/main.3fc2655a.css.map",
-    "main.333052d3.js.map": "/dom-gajard/static/js/main.333052d3.js.map"
+    "main.194286fc.css.map": "/dom-gajard/static/css/main.194286fc.css.map",
+    "main.69984616.js.map": "/dom-gajard/static/js/main.69984616.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fc2655a.css",
-    "static/js/main.333052d3.js"
+    "static/css/main.194286fc.css",
+    "static/js/main.69984616.js"
   ]
 }
